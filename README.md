@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anasjaidi
 - 👀 I’m interested in CISSP
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C & Python & algebra
 - 💞️ I’m looking to collaborate on C 
 - 📫 How to reach me anas.jaidi@icloud.com
 
