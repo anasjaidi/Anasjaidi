@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anasjaidi
-- 👀 I’m interested in CISSP
+- 👋 Hi, I’m Anas_Jaidi
+- 👀 I’m interested in CISSP(Cybersecurity) & web-development(to build own project)
 - 🌱 I’m currently learning C & Python & algebra
 - 💞️ I’m looking to collaborate on C 
 - 📫 How to reach me anas.jaidi@icloud.com
