@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anas_Jaidi
 - 👀 I’m interested in CISSP(Cybersecurity) & web-development(to build own project)
-- 🌱 I’m currently learning C & Python & algebra
-- 💞️ I’m looking to collaborate on C Or Python
+- 🌱 I’m currently learning C & Cpp & algebra
+- 💞️ I’m looking to collaborate on C Or Cpp
 - 📫 How to reach me anas.jaidi@icloud.com
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ajaidi)](https://github.com/mohouyizme/1337-readme)
