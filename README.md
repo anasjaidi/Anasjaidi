@@ -4,7 +4,11 @@ Hi 👋 My name is Anas jaidi
 Web Developer
 -------------
 
-i start coding last year and actually i'm learning a lot of stuff like : -> Web develepement -> C & CPP -> linux fundamentals & command line -> Math
+i start coding last year and actually i'm learning a lot of stuff like :
+-> Web develepement 
+-> C & CPP 
+-> linux fundamentals & command line 
+-> Math
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [anas.jaidi@icloud.com](mailto:anas.jaidi@icloud.com)
@@ -51,7 +55,7 @@ src="https://img.shields.io/github/followers/anasjaidi?logo=github&style=for-the
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/robinnehood"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" </a>
+<a href="https://www.buymeacoffee.com/robinnehood"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" ></a>
 
 
 <!---
