@@ -4,12 +4,6 @@ Hi 👋 My name is Anas jaidi
 Web Developer
 -------------
 
-i start coding last year and actually i'm learning a lot of stuff like :
--> Web develepement 
--> C & CPP 
--> linux fundamentals & command line 
--> Math
-
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [anas.jaidi@icloud.com](mailto:anas.jaidi@icloud.com)
 * 🤝  I'm open to collaborating on web dev
