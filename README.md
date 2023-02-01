@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/anasjaidi?logo=github&style=for-the
 
 ### Skills
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href='https://pugjs.org/api/getting-started.html'><img src='https://microdevs.com/wp-content/themes/microdevs-theme/images/pug-js.png' width="36" height="36"></a>
@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/anasjaidi?logo=github&style=for-the
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-
+ -->
 
 ### Socials
 
