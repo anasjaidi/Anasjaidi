@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/anasjaidi?logo=github&style=for-the
 
 <a href="http://www.github.com/anasjaidi"><img src="https://github-readme-stats.vercel.app/api?username=anasjaidi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anasjaidi's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjaidi&exclude_repo=coworkinn-deploy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjaidi&exclude_repo=coworkinn-deploy,portfolio-deploy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Support Me
 
