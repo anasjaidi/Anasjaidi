@@ -48,6 +48,9 @@ src="https://img.shields.io/github/followers/anasjaidi?logo=github&style=for-the
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjaidi&exclude_repo=coworkinn-deploy,portfolio-deploy,watch-ecommerce,photography-portfolio,web-projects&langs_count=18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anasjaidi)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/robinnehood"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" ></a>
