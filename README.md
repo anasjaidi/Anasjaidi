@@ -2,7 +2,8 @@
 <b>My Intra Stats</b>
 
 [![ajaidi's 42 stats](https://badge.mediaplus.ma/greenbinary/ajaidi)](https://github.com/oakoudad/badge42)
-https://github-profile-trophy.vercel.app/?username=anasjaidi&theme=flat
+[![trophy](https://github-profile-trophy.vercel.app/?username=anasjaidi&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <b>My GitHub Stats</b>
