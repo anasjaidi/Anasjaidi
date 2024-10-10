@@ -4,6 +4,9 @@
 [![ajaidi's 42 stats](https://badge.mediaplus.ma/greenbinary/ajaidi)](https://github.com/oakoudad/badge42)
 [![trophy](https://github-profile-trophy.vercel.app/?username=anasjaidi&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasjaidi&"  />
+</div>
 
 
 <b>My GitHub Stats</b>
